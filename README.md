@@ -10,7 +10,7 @@ Inspired by the retro feel of classic PC shooters like *Air Strike*, these asset
 * **Xbox-Style Controller Buttons & Layout**
 * **Keys for Display (UI prompts)**
 * **Helicopter Icon**
-* **Bonus: Missiles & Points (1000, 2000)**
+* **Bonus: Missiles & Points**
 
 All files are **PNG format**, flat and minimalist, suitable for any resolution.
 
